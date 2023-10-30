@@ -1,0 +1,22 @@
+
+*********************************
+Id Cliente: 1
+Nombre del hilo: Guia del autoestopista galactico
+Fecha de publicacion: Sat Oct 21 00:00:00 CEST 2023
+Estado de solicitud: ENTREGADO
+Dias desde el pedido: 9
+Segmentacion: Cliente al dia
+*********************************
+Id Cliente: 2
+Nombre del hilo: Percy Jackson
+Fecha de publicacion: Wed Sep 13 00:00:00 CEST 2023
+Estado de solicitud: ENTREGADO
+Dias desde el pedido: 47
+Segmentacion: Cliente al dia
+*********************************
+Id Cliente: 3
+Nombre del hilo: El principe
+Fecha de publicacion: Fri Aug 03 00:00:00 CEST 1990
+Estado de solicitud: PASO FECHA DE ENTREGA
+Dias desde el pedido: 12141
+Segmentacion: El Cliente no esta al dia
