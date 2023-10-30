@@ -45,7 +45,7 @@ class Tarea implements Runnable{
             for(Libro libro: libros){
                 texto += "\n*********************************";
                 texto+="\nId Cliente: "+libro.getIdCliente();
-                texto+="\nNombre del hilo: "+ libro.getNombre();
+                texto+="\nNombre del libro: "+ libro.getNombre();
                 texto+="\nFecha de publicacion: "+ libro.getFecha_publicacion();
                 texto+="\nEstado de solicitud: "+ libro.getEstado_solicitud();
                 texto+="\nDias desde el pedido: "+ libro.diferenciaDevolucion();
